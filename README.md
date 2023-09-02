@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# SCCO - Sistema de Controle de Clínicas Odontológicas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O SCCO é um sistema de controle de clínicas odontológicas desenvolvido em React. Ele oferece uma interface para gerenciar pacientes, dentistas, recepcionistas, procedimentos, especialidades, convênios, agenda e finanças de uma clínica odontológica.
 
-## Available Scripts
+## Funcionalidades Principais
 
-In the project directory, you can run:
+- Gerenciamento de pacientes.
+- Gerenciamento de dentistas.
+- Gerenciamento de recepcionistas.
+- Gerenciamento de procedimentos.
+- Gerenciamento de especialidades.
+- Gerenciamento de convênios.
+- Agendamento de consultas e compromissos.
+- Controle financeiro, incluindo faturas de pacientes e convênios.
+- Geração de relatórios.
 
-### `npm start`
+## Como Iniciar
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Para iniciar a aplicação localmente, siga os seguintes passos:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
+2. Clone este repositório para o seu ambiente de desenvolvimento.
+3. Navegue até a pasta do projeto no terminal.
+4. Execute o comando `npm install` para instalar as dependências.
+5. Execute o comando `npm start` para iniciar a aplicação em modo de desenvolvimento.
 
-### `npm test`
+Acesse a aplicação em seu navegador em `http://localhost:3000`.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contribuindo
 
-### `npm run build`
+Sinta-se à vontade para contribuir para este projeto. Para contribuir, siga estas etapas:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Faça um fork do projeto.
+2. Crie uma branch para sua feature (`git checkout -b minha-feature`).
+3. Faça commit de suas mudanças (`git commit -am 'Adicionei uma nova feature'`).
+4. Faça push para a branch (`git push origin minha-feature`).
+5. Abra um Pull Request.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Agradecimentos
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Agradecemos a todos os contribuidores que tornaram este projeto possível.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Link para o projeto no GitHub](https://github.com/Giulianobrjf/SCCO)
